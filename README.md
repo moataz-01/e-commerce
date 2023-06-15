@@ -2,6 +2,5 @@ The system is a Business to Consumer online E-commerce website designed to creat
 consumers require daily. This online E-commerce system may be a complete solution for a customer which lows provides a flexible, safe, and user-friendly environment.
 
 <h1>User demo</h1>
-<a href="admin_demo.mkv">click here</a>
 
 <h1>Admin demo</h1>
