@@ -3,13 +3,13 @@ consumers require daily. This online E-commerce system may be a complete solutio
 
 <h1>User demo</h1>
 
-<video controls>
+<video width="320" height="240" autoplay muted>
 <source src="user_demo.mkv" type="video/mkv">
-<video>
+</video>
 
 <h1>Admin demo</h1>
 
 
-<video controls>
+<video width="320" height="240" autoplay muted>
 <source src="admin_demo.mkv" type="video/mkv">
-<video>
+</video>
