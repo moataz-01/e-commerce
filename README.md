@@ -2,13 +2,13 @@ The system is a Business to Consumer online E-commerce website designed to creat
 consumers require daily. This online E-commerce system may be a complete solution for a customer which lows provides a flexible, safe, and user-friendly environment.
 
 <h1>User demo</h1>
-
+C:\laragon\www\user_demo.mkv
 <video width="320" height="240" autoplay muted>
 <source src="user_demo.mkv" type="video/mkv">
 </video>
 
 <h1>Admin demo</h1>
-
+C:\laragon\www\admin_demo.mkv
 
 <video width="320" height="240" autoplay muted>
 <source src="admin_demo.mkv" type="video/mkv">
