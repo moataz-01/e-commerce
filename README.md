@@ -8,3 +8,7 @@ https://github.com/moataz-01/e-commerce/assets/100870452/7949e32b-14cd-465a-94fb
 
 
 <h1>Admin demo</h1>
+
+
+https://github.com/moataz-01/e-commerce/assets/100870452/34d82491-2305-47fd-9e00-8bed3e77a517
+
